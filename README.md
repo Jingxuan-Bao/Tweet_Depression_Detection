@@ -8,10 +8,10 @@ The Tweet Depression Detection project aims to create a machine learning model t
 ## Dataset 📊
 For this project, we will be using two datasets: the Sentiment140 dataset and a dataset of depressive tweets scraped by Twint.
 
-The Sentiment140 dataset https://www.kaggle.com/datasets/kazanova/sentiment140 contains 1.6 million tweets. While this dataset is not specifically designed for detecting depression, we will use a subset of this dataset containing approximately 8000 to 10,000 randomly sampled tweets for our "normal" tweet class. 📈📉🔢
+The Sentiment140 dataset https://www.kaggle.com/datasets/kazanova/sentiment140 contains 1.6 million tweets. While this dataset is not specifically designed for detecting depression, we will use a subset of this dataset containing approximately 8000 to 10,000 randomly sampled tweets for our "normal" tweet class.
 
-To create our "depressive" tweet class, we found a separate dataset of tweets that had been scraped by Twint using keywords related to depression https://github.com/eddieir/Depression_detection_using_Twitter_post/blob/master/depressive_tweets_processed.csv. This dataset contains approximately 4,000 tweets that have been labeled as depressive. 😔😞😢
+To create our "depressive" tweet class, we found a separate dataset of tweets that had been scraped by Twint using keywords related to depression https://github.com/eddieir/Depression_detection_using_Twitter_post/blob/master/depressive_tweets_processed.csv. This dataset contains approximately 4,000 tweets that have been labeled as depressive. 😞
 
 ## Continue working .... 🤔
 
-We will combine these two datasets to create a labeled dataset for training our machine learning model. By using these two datasets, we aim to create a model that can accurately distinguish between "normal" and "depressive" tweets, and potentially identify individuals who may be at risk of depression based on their social media activity. 🤖💻📊
+We will combine these two datasets to create a labeled dataset for training our machine learning model. By using these two datasets, we aim to create a model that can accurately distinguish between "normal" and "depressive" tweets, and potentially identify individuals who may be at risk of depression based on their social media activity. 💻
