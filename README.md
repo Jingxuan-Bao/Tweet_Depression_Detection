@@ -16,12 +16,15 @@ To create our "depressive" tweet class, we found a separate dataset of tweets th
 
 I will combine these two datasets to create a labeled dataset for training our machine learning model. By using these two datasets, I aim to create a model that can accurately distinguish between "normal" and "depressive" tweets, and potentially identify individuals who may be at risk of depression based on their social media activity. 💻
 
-## Tools 🔧
+## Tools and Models for Classification 🔧
+
 Text Feature Extraction : TF-IDF 
 
 Classification Model : Logistic Regression, Support Vector Machin, KNN, Random Forests
 
 Deep Learning Model: LSTM
+
+Fine Tune Model: BERT
 
 ## Sample Web UI (Tweet Predictor) 💻
 Depressive Tweet:
