@@ -34,4 +34,4 @@ Normal Tweet:
 ![Image text](https://github.com/Jingxuan-Bao/Tweet_Depression_Detection/blob/a18d2508d04f108fd43d8d937f6d951da22c7381/image/normal_tweet.png)
 
 Video Link:
-https://drive.google.com/drive/u/0/my-drive?q=type:video
+https://drive.google.com/file/d/1CJHbQKxXz0oVt59QDHxKBFrO-kZAIq0q/view?usp=sharing
